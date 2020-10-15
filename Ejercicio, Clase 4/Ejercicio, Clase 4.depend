@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1599671353 source:c:\users\pc\documents\ejercicios de github\ejercicio, clase 4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1599672438 source:c:\users\pc\documents\ejercicios de github\ejercicio, clase 4\utn.c
+	"utn.h"
+
+1599672438 c:\users\pc\documents\ejercicios de github\ejercicio, clase 4\utn.h
+

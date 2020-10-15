@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1599850022 source:c:\users\pc\documents\ejercicios de github\ejercicio, clase 5\mibiblioteca.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1599850022 c:\users\pc\documents\ejercicios de github\ejercicio, clase 5\mibiblioteca.h
+
+1599850022 source:c:\users\pc\documents\ejercicios de github\ejercicio, clase 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miBiblioteca.h"
+
